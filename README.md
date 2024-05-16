@@ -62,4 +62,4 @@ To get started with this project, follow these steps:
 
 ### Another Project
 
-[Portfoliol](https://dindarosalin.vercel.app/)
+[Portfolio](https://dindarosalin.vercel.app/)
