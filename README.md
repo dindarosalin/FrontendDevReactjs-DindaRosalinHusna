@@ -39,6 +39,7 @@ To get started with this project, follow these steps:
 - **Node.js Version**: 21.0.0
 - **Package Manager**: npm
 - **CSS Framework**: Tailwind CSS
+- **API**: [Open API](https://restaurant-api.dicoding.dev/)
 
 ### Features
 
@@ -57,4 +58,8 @@ To get started with this project, follow these steps:
 
 ### Deployed Link
 
-[Deployed using Vercel](<vercel-deployed-link>)
+[Deployed using Vercel](https://frontend-dev-reactjs-dinda-rosalin-husna.vercel.app/)
+
+### Another Project
+
+[Portfoliol](https://dindarosalin.vercel.app/)
