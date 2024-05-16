@@ -54,6 +54,10 @@ To get started with this project, follow these steps:
 
 ### Repository Link
 
+[Task Detail](https://career.sekawanmedia.co.id/uploads/technicaltest/1678689275_efca9bdbbf616539baea.pdf)
+
+### Repository Link
+
 [Repository](https://github.com/dindarosalin/FrontendDevReactjs-DindaRosalinHusna)
 
 ### Deployed Link
