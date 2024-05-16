@@ -52,7 +52,7 @@ To get started with this project, follow these steps:
 - Some features may not exactly match the mockup due to limitations in the API used.
 - Adjustments have been made to accommodate changes such as comment creation, modal views, Tailwind Customization and responsiveness.
 
-### Repository Link
+### Task Detail
 
 [Task Detail](https://career.sekawanmedia.co.id/uploads/technicaltest/1678689275_efca9bdbbf616539baea.pdf)
 
