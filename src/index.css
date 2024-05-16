@@ -1,0 +1,22 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+  color-scheme: light dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --primary-blue: rgb(36, 7, 80);
+  --darker-blue: rgb(62, 11, 137);
+  --gray-bg: rgb(238, 238, 238);
+  --gray-bold: rgb(241, 241, 241);
+  --red: rgb(252, 65, 0);
+  --green: rgb(64, 165, 120);
+}
